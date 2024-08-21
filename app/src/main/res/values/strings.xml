@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FIT Helper</string>
+    <string name="btn_rutinas">Rutinas Personalizadas</string>
+    <string name="btn_contactanos">Contáctanos</string>
+    <string name="contact_message">Hola, me gustaría más información sobre las rutinas.</string>
+    <string name="rutina_1">Rutina 1</string>
+    <string name="rutina_2">Rutina 2</string>
+    <string name="desc_rutina_1">Descripción detallada de la Rutina 1.</string>
+    <string name="desc_rutina_2">Descripción detallada de la Rutina 2.</string>
+</resources>
